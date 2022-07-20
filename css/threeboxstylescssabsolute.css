@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+/*****Class Selectors *****/
+
+.red {
+
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    left: 400px;
+    top:400px;   
+
+}
+
+
+.blue {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    
+}
+
+.yellow {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    left: 0px;
+}
